@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo_text {
+    font-size: 15px;
+} 
+
+.logo_img {
+    height: 25px;
+}
+
+.kosmos {
+    width: 1520px;
+}
+
+.centreBlock {
+    margin-left: 550px;
+    margin-right: 300px;
+}
+
+.centreBlock li{
+    list-style-type: none;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.centreBlock img {
+    width: 20px;
+    
+}

@@ -1,0 +1,21 @@
+* {
+    top: 0;
+    margin: 0;
+
+}
+
+.header {
+    display: inline-block;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.find {
+    display: inline-block;
+}
+
+h3 {
+    font-weight: 200;
+}
